@@ -1,1 +1,1 @@
-# Spp-OpenCV-Live-Face-detecting-Project
+# Detect faces in an image and live webcam using Open CV.
